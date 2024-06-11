@@ -1,0 +1,31 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #007bff;
+}
+
+button:hover {
+  text-decoration: underline;
+}
